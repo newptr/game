@@ -6,8 +6,7 @@ namespace Game
 	{
 		public static void Main (string[] args)
 		{
-			string b = Console.ReadLine (); 
-			string a = "a";
+			Console.WriteLine ("test");
 		}
 	}
 }
